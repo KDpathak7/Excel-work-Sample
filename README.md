@@ -7,4 +7,4 @@ The sample jobs file is contains only the data for an Analyst to further sub-div
 Working Book is made by me i order to clarify the data in proper way, you can also go through it and practice it.
 
 Credit (SAMPLE): lukebarousse 
-Also checkout his Youtube Video: (Excel data)[https://youtu.be/pCJ15nGFgVg?si=eOyOZOK9a6ggx-2A]
+Also checkout his Youtube Video: https://youtu.be/pCJ15nGFgVg?si=eOyOZOK9a6ggx-2A (for better understanding)
